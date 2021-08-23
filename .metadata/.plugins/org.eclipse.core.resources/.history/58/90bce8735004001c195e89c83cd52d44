@@ -1,0 +1,5 @@
+package electricity_billing;
+
+public class CalculateBill {
+
+}

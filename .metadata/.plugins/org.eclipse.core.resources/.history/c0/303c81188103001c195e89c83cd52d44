@@ -1,0 +1,17 @@
+package electricity_billing;
+
+import java.sql.*;
+
+public class conn {
+	
+	Connection c;
+	Statement s;
+	
+	public conn() {
+		// TODO Auto-generated method stub
+		try {
+			Class.forName("")
+		}
+	}
+
+}
